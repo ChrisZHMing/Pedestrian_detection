@@ -1,0 +1,6 @@
+2019-01-03 11:35:18,948 INFO Program runing...
+2019-01-03 11:35:18,972 INFO load pos samples:3542
+2019-01-03 11:35:18,973 INFO load neg samples:1671
+2019-01-03 11:35:34,794 INFO Size of feature vectors of samples:(20252, 3780, 1)
+2019-01-03 11:35:34,794 INFO Size of labels of samples:(20252,)
+2019-01-03 11:35:34,794 INFO Starting training svm...
